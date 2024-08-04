@@ -1,0 +1,52 @@
+body {
+  background-color: #E18C8F;
+  color: #5B08C1;
+  text-align: center;
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.video {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  margin-top: 2rem;
+}
+
+label {
+  margin-bottom: 0.5rem;
+  margin-right: 3.5rem;
+}
+
+input {
+  margin-top: 2rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  width: 15rem;
+  height: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  padding: 0.5rem;
+  font-size: 1rem;
+  width: 10rem;
+  height: 2.5rem;
+  background-color: #6698F1;
+  color: #110EBF;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  margin-top: 2rem;
+}
+
+.footer {
+  padding-top: 5rem;
+  color: crimson;
+  font-weight: bold;
+}
